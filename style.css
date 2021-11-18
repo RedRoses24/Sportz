@@ -1,0 +1,48 @@
+
+
+.book
+{
+  cursor: pointer;
+}
+
+.sport hr
+{
+  margin-bottom: 10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
+body{
+    background-image: url(https://media.istockphoto.com/photos/striped-soccer-field-picture-id472347896?b=1&k=20&m=472347896&s=170667a&w=0&h=h2SeCosutlm8QlFTwnHrzAk5fOjnskIYo74VfyvmsUo=);
+}
+#sports, #sports1{
+    background-color: burlywood;
+    border-radius: 20px;
+    font-family: monospace;
+}
+#mj{
+    background-color: darkgoldenrod;
+    border-radius: 20px;
+    font-family: monospace;
+}
+#basketball_p, #badminton_p, #kho_p{
+    background-color: darkgoldenrod;
+    text-align: center;
+    font-style: bold;
+    color: black;
+}
